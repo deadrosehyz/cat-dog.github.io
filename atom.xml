@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cat-dog.github.io</id>
+    <id>http://cat-dog.github.io</id>
     <title>Gridea</title>
-    <updated>2019-11-12T01:24:09.923Z</updated>
+    <updated>2019-11-12T01:26:40.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cat-dog.github.io"/>
-    <link rel="self" href="https://cat-dog.github.io/atom.xml"/>
+    <link rel="alternate" href="http://cat-dog.github.io"/>
+    <link rel="self" href="http://cat-dog.github.io/atom.xml"/>
     <subtitle>小猫小狗的幸福生活</subtitle>
-    <logo>https://cat-dog.github.io/images/avatar.png</logo>
-    <icon>https://cat-dog.github.io/favicon.ico</icon>
+    <logo>http://cat-dog.github.io/images/avatar.png</logo>
+    <icon>http://cat-dog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[最美好的一天]]></title>
-        <id>https://cat-dog.github.io/post/zui-mei-hao-de-yi-tian</id>
-        <link href="https://cat-dog.github.io/post/zui-mei-hao-de-yi-tian">
+        <id>http://cat-dog.github.io/post/zui-mei-hao-de-yi-tian</id>
+        <link href="http://cat-dog.github.io/post/zui-mei-hao-de-yi-tian">
         </link>
         <updated>2019-11-12T01:18:43.000Z</updated>
         <content type="html"><![CDATA[<p>最美好的一天，是和猫咪在一起的一天。</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://cat-dog.github.io/post/hello-gridea</id>
-        <link href="https://cat-dog.github.io/post/hello-gridea">
+        <id>http://cat-dog.github.io/post/hello-gridea</id>
+        <link href="http://cat-dog.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
